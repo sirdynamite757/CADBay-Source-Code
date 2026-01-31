@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Mojangles';
+    src: url('Mojang-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+ title {
+    color: #a0a0a0;
+    font-size: larger;
+}
+body {
+    font-family: 'Mojangles', sans-serif;
+    color: #ff0000;
+    background-color: #74573f;
+}
+
+p {
+    color: #606060;
+}
